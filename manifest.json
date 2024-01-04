@@ -1,9 +1,9 @@
 {
-	"id": "obsidian-custom-plugin-starter",
-	"name": "Custom Plugin Starter",
+	"id": "swap-suggester-hotkey",
+	"name": "Swap suggester hotkey",
 	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
+	"description": "Support swap suggester hotkey from arrow up to shift tab, arrow down to tab.",
 	"author": "Boninall",
 	"authorUrl": "https://github.com/Quorafind",
 	"fundingUrl": {
