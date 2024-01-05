@@ -1,6 +1,6 @@
 # Obsidian Swap Suggester Hotkey
 
-> [!warning]
+> [!note]
 > This is a plugin developed for @pseudometa, and without his support, this plugin would not be developed.
 
 ## Usage
