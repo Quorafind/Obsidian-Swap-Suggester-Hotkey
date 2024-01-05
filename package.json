@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-custom-plugin-starter",
+	"name": "swap-suggester-hotkey",
 	"version": "0.0.1",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Swap suggester hotkey",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
